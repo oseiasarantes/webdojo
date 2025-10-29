@@ -1,0 +1,18 @@
+{
+  "perfilDev": {
+    "name": "Oséias Arantes",
+    "username": "oseiasarantes_dev",
+    "profile": "dev"
+  },
+  "perfilQa": {
+    "name": "Oséias Arantes",
+    "username": "oseiasarantes_qa",
+    "profile": "qa"
+  },
+  "perfilReal": {
+    "name": "Oséias Arantes",
+    "username": "oseiasarantes",
+    "profile": "qa",
+    "url": "https://github.com/oseiasarantes"
+  }
+}

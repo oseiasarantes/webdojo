@@ -1,0 +1,40 @@
+{
+  "pessoaFisica": {
+    "nome": "Oséias Arantes",
+    "email": "oseias@teste.com",
+    "telefone": "(83) 98877-6655",
+    "tipoConsultoria": "Individual",
+    "documento": "48739509028",
+    "canaisCheckBox": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "arquivoPath": "cypress/fixtures/document.pdf",
+    "descricao": "Lorem Ipsum",
+    "tecnologias": [
+      "Cypress",
+      "RestAssured",
+      "Selenium",
+      "Robot Framework"
+    ]
+  },
+  "pessoaJuridica": {
+    "nome": "Oséias Arantes",
+    "email": "oseias@teste.com",
+    "telefone": "(83) 98877-6655",
+    "tipoConsultoria": "In Company",
+    "documento": "09372233000190",
+    "canaisCheckBox": [
+      "Instagram",
+      "LinkedIn"
+    ],
+    "arquivoPath": "cypress/fixtures/document.pdf",
+    "descricao": "Lorem Ipsum",
+    "tecnologias": [
+      "Cypress"
+    ]
+  }
+}
